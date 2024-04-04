@@ -1,17 +1,13 @@
-.bebas-neue-regular {
-    font-family: "Bebas Neue", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
+
   
 body{
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Baskervville", serif;
     margin: 0;
     padding: 0;
 }
 header{
     background-color: #333;
-    color: #fff;
+    color: #b62d2d;
 }
 nav ul{
     list-style: none;
@@ -23,7 +19,7 @@ nav ul li{
     margin-right: 20px;
 }
 nav ul li a{
-    color: #fff;
+    color: #2699ce;
     text-decoration: none;
 }
 main{
@@ -34,7 +30,7 @@ section{
 }
 footer{
     background-color: #333;
-    color: #fff;
+    color: #c019cf;
     padding: 20px;
     text-align: center;
 }
@@ -42,7 +38,7 @@ h1{
     margin: 0;
 }
 h2{
-    color: #333;
+    color: #11e92e;
 }
 ul{
     padding-left: 20px;
@@ -51,7 +47,7 @@ address{
     font-style:  normal;
 }
 a{
-    color: #007bff;
+    color: #fbff00;
 }
 a:hover{
     text-decoration: underline;
